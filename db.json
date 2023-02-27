@@ -1,0 +1,19 @@
+{
+  "book": [
+    {
+      "id": 1,
+      "name": "Никита",
+      "sname": "Зырянов",
+      "email": "nikita.ziryanov@mail.ru",
+      "phone": "+996700123654"
+    },
+    {
+      "name": "Илона",
+      "sname": "Мамутова",
+      "email": "mamutova@gmail.com",
+      "phone": "+997654123",
+      "id": 2,
+      "phonel": "+997654123"
+    }
+  ]
+}
